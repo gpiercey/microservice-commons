@@ -1,2 +1,3 @@
 # microservice-commons
-Common Code Useful for Java Microservices
+A shared library containing common code useful for Java microservice development.
+
